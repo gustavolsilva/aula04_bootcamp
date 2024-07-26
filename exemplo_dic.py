@@ -30,4 +30,3 @@ carrinho_json = json.dumps(carrinho)
 print(carrinho_json)
 
 #Json é o "dicionário do Java Script"
-

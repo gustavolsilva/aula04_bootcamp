@@ -39,3 +39,5 @@ Conjunto de elementos
 ### Dicionario
 Chave : Valor
 Dicionario: https://docs.python.org/3/tutorial/datastructures.html#dictionaries
+
+

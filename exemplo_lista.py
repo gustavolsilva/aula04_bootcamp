@@ -12,3 +12,5 @@ produtos.pop() # Retira o último produto
 produtos.pop()
 
 print(produtos)
+
+
