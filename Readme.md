@@ -40,4 +40,12 @@ Conjunto de elementos
 Chave : Valor
 Dicionario: https://docs.python.org/3/tutorial/datastructures.html#dictionaries
 
+## 3. Lendo Arquivos
+No módulo nativo do Python existe uma maneira para ler arquivos .csv. Através da combinação de '''with open ''' é possível essa ação
+
+
+## 4. Funções
+Muito importante em Pyhton, pois com Funções é possível modularizar e reutilizar códigos. Assim facilita o processamento e analise de grandes conjuntos de dados. Em Engenharia, usamos para encapsular lógicas de transformação, limpeza, agregação e analise de dados. Com isso, mantemos código organizado e qualificado.
+
+Funções são abstrações. Tornam o código mais legível. Também pode ser conhecido como um míni-programa.
 

@@ -13,4 +13,3 @@ produtos.pop()
 
 print(produtos)
 
-
